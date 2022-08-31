@@ -1,2 +1,2 @@
-# ML_python_study
+# python_ML
 machine-learning
